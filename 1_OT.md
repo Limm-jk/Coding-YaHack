@@ -36,3 +36,6 @@
 * Theano
 
 이 중 우리는 앞으로 TensorFlow를 이용하여 해결할 것.
+
+### 2. 지도학습의 빅픽쳐
+![](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4966/12385.png)
